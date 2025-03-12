@@ -71,7 +71,7 @@
     },
     {
       "title": "Artificial Neural Networks - Artificial Intelligence",
-      "summary": "Short summary about my second project",
+      "summary": "Implemented various types of artificial neural networks for classification, regression, and sequence prediction tasks.",
       "highlights": [
         "Experience in developing feedforward, recurrent, and convolutional neural networks using frameworks such as TensorFlow and PyTorch",
         "Skilled in training ANNs for tasks including classification, regression, and sequence prediction.",
