@@ -1,0 +1,144 @@
+{
+  "name": "David Murphy",
+  "label": "Software Engineer",
+  "image_path": "img/profile.png",
+  "contact": {
+    "email": "djm7566@psu.edu",
+    "phone": "215-859-0861",
+    "location": "Greater Philadelphia Area"
+  },
+  "summary": "Enthusiastic computer science student with a strong work ethic and a fervent passion for innovation. Proficient in Python, Java, and C++. My problem-solving and logical thinking abilities, coupled with excellent teamwork and communication skills, position me as a valuable asset in dynamic environments. I am excited about continuous growth, appreciating setbacks and critiques as catalysts for improvement. Eager to contribute to an organization, I aspire to make a lasting impact in the ever-evolving field of computer science.",
+  "base_url": "127.0.0.1:5500",
+  "social_links": [
+    {
+      "label": "Personal Website",
+      "url": "https://sample.com",
+      "svg_path": "img/globe.svg"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/davidamurphy0/",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/dmrph",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "IT Solutions Consulting, LLC",
+      "position": "Integration Services Engineer Intern",
+      "url": "https://www.itsolutions-inc.com/",
+      "start_date": "05/2022",
+      "end_date": "01/2023",
+      "summary": "Short summary about present job and what the position entails",
+      "highlights": [
+        "Demonstrated hands-on expertise in hardware by efficiently building and configuring DataVaults (DV's), ensuring optimal performance and functionality.",
+        "Authored comprehensive Standard Operating Procedures (SOPs) for various tasks, including software upgrades for firewalls, configuration of switches, and the construction of DataVaults.",
+        "Configured switches to optimize network functionality, contributing to seamless and efficient data flow.",
+        "Spearheaded the building and configuration of DataVaults, implementing best practices to meet performance and security standards.",
+        "Maintained meticulous documentation to facilitate knowledge transfer and streamline future troubleshooting processes."
+      ]
+    },
+    {
+      "company": "Chestnut Hill College",
+      "position": "Contracted Software Engineer",
+      "url": "https://www.chc.edu/",
+      "start_date": "01/2022",
+      "end_date": "12/2022",
+      "summary": "Short summary about previous job and what that position entailed",
+      "highlights": [
+        "Assisted in identifying and implementing process improvements to enhance data accuracy and quality control measures, resulting in improved data integrity.",
+        "Conducted regular data audits and performed data cleaning activities to eliminate duplicates and inconsistencies, contributing to a more reliable and organized dataset.",
+        "Utilized Excel and other software tools to extract, transform, and load data, ensuring accurate and timely data entry."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Swarm Intelligence for Lockheed Martin (Capstone)",
+      "summary": "Worked with a team of 5 to develop a swarm intelligence algorithm for Lockheed Martin using TurtleBots",
+      "url": "https://sample.com",
+      "highlights": [
+        "Using TurtleBots and Raspberry Pi's, developed a swarm intelligence algorithm intended to be used for search and rescue missions.",
+        "Explored different algorithms such as Particle Swarm Optimization (PSO), Ant Colony Optimization (ACO), and Artificial Bee Colony (ABC).",
+        "Engineered a custom algorithm that combines the strengths of PSO and ACO to optimize search patterns.",
+        "Implemented the algorithm in Python, utilizing ROS (Robot Operating System) for communication and control of the TurtleBots.",
+        "Conducted extensive testing and simulation to validate the effectiveness of the swarm intelligence approach in various scenarios."
+      ]
+    },
+    {
+      "title": "Artificial Neural Networks - Artificial Intelligence",
+      "summary": "Short summary about my second project",
+      "highlights": [
+        "Experience in developing feedforward, recurrent, and convolutional neural networks using frameworks such as TensorFlow and PyTorch",
+        "Skilled in training ANNs for tasks including classification, regression, and sequence prediction.",
+        "Familiarity with optimization techniques such as gradient descent, backpropagation, and adaptive learning rates."
+      ]
+    },
+    {
+      "title": "T5Summarize - Artificial Intelligence",
+      "summary": "fine-tunes a T5 model on the CNN/DailyMail dataset for text summarization, then serves an interactive demo via Streamlit.",
+      "url": "https://github.com/dmrph/T5Summarize",
+      "highlights": [
+        "Developed a text summarization application using the T5 model, fine-tuning it on the CNN/DailyMail dataset.",
+        "Implemented an interactive demo using Streamlit, allowing users to input text and receive summarized outputs.",
+        "Utilized Python and Hugging Face's Transformers library for model training and inference.",
+        "Demonstrated the effectiveness of the T5 model in generating concise and coherent summaries for various types of text inputs."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Pennsylvania State University",
+      "location": "Abington, PA",
+      "url": "https://sample.com",
+      "degrees": [
+        "Bachelor of Science in Computer Science"
+      ],
+      "honors": ["Dean's List"],
+      "gpa_cumulative": "3.7",
+      "graduation_date": "05/2025"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "proficiency": 100,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "Java",
+      "proficiency": 80,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "C++",
+      "proficiency": 80,
+      "proficiency_label": "Proficiency Level"
+    }
+  ],
+  "relevant_courses": [
+    {
+      "name": "Machine Learning"
+    },
+    {
+      "name": "Artificial Intelligence"
+    },
+    {
+      "name": "Data Structures and Algorithms"
+    },
+    {
+      "name": "Database Management Systems"
+    }
+  ],
+  "references": [
+    {
+      "name": "John Fritz",
+      "relation": "Previous Boss",
+      "reference": "John is a great boss and I learned a lot from him."
+    }
+  ]
+}
