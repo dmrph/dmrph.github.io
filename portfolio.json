@@ -128,11 +128,31 @@
       "name": "Artificial Intelligence"
     },
     {
+      "name": "Computer Vision & Deep Learning"
+    },
+    {
+      "name": "Data Mining"
+    },
+    {
       "name": "Data Structures and Algorithms"
     },
     {
       "name": "Database Management Systems"
+    },
+    {
+      "name": "Operating Systems"
+    },
+    {
+      "name": "Software Engineering"
+    },
+    {
+      "name": "Computer Networks"
+    },
+    {
+      "name": "Probability and Statistics"
     }
+
+
   ],
   "references": [
     {
