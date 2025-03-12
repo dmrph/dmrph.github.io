@@ -11,11 +11,6 @@
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
-      "label": "Personal Website",
-      "url": "https://sample.com",
-      "svg_path": "img/globe.svg"
-    },
-    {
       "label": "LinkedIn",
       "url": "https://www.linkedin.com/in/davidamurphy0/",
       "svg_path": "img/linkedin.svg"
