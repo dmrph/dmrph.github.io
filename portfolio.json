@@ -120,13 +120,18 @@
       "proficiency_label": "Proficiency Level"
     },
     {
-      "name": "HTML",
+      "name": "MATLAB",
       "proficiency": 60,
       "proficiency_label": "Proficiency Level"
     },
     {
+      "name": "HTML",
+      "proficiency": 50,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
       "name": "CSS",
-      "proficiency": 60,
+      "proficiency": 50,
       "proficiency_label": "Proficiency Level"
     }
   ],
