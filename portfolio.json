@@ -28,7 +28,7 @@
       "url": "https://www.itsolutions-inc.com/",
       "start_date": "05/2022",
       "end_date": "01/2023",
-      "summary": "Short summary about present job and what the position entails",
+      "summary": "",
       "highlights": [
         "Demonstrated hands-on expertise in hardware by efficiently building and configuring DataVaults (DV's), ensuring optimal performance and functionality.",
         "Authored comprehensive Standard Operating Procedures (SOPs) for various tasks, including software upgrades for firewalls, configuration of switches, and the construction of DataVaults.",
@@ -43,7 +43,7 @@
       "url": "https://www.chc.edu/",
       "start_date": "01/2022",
       "end_date": "12/2022",
-      "summary": "Short summary about previous job and what that position entailed",
+      "summary": "",
       "highlights": [
         "Assisted in identifying and implementing process improvements to enhance data accuracy and quality control measures, resulting in improved data integrity.",
         "Conducted regular data audits and performed data cleaning activities to eliminate duplicates and inconsistencies, contributing to a more reliable and organized dataset.",
@@ -54,7 +54,7 @@
   "projects": [
     {
       "title": "Swarm Intelligence for Lockheed Martin (Capstone - In progress)",
-      "summary": "Worked with a team of 5 to develop a swarm intelligence algorithm for Lockheed Martin using TurtleBots",
+      "summary": "Worked with a team of 5 to develop a swarm intelligence algorithm for Lockheed Martin using TurtleBots:",
       "url": "https://www.lockheedmartin.com/en-us/index.html",
       "highlights": [
         "Using TurtleBots and Raspberry Pi's, developed a swarm intelligence algorithm intended to be used for search and rescue missions.",
@@ -66,7 +66,7 @@
     },
     {
       "title": "Artificial Neural Networks - Artificial Intelligence",
-      "summary": "Implemented various types of artificial neural networks for classification, regression, and sequence prediction tasks.",
+      "summary": "Implemented various types of artificial neural networks for classification, regression, and sequence prediction tasks:",
       "highlights": [
         "Experience in developing feedforward, recurrent, and convolutional neural networks using frameworks such as TensorFlow and PyTorch",
         "Skilled in training ANNs for tasks including classification, regression, and sequence prediction.",
@@ -75,7 +75,7 @@
     },
     {
       "title": "T5Summarize - Artificial Intelligence",
-      "summary": "fine-tunes a T5 model on the CNN/DailyMail dataset for text summarization, then serves an interactive demo via Streamlit.",
+      "summary": "fine-tunes a T5 model on the CNN/DailyMail dataset for text summarization, then serves an interactive demo via Streamlit:",
       "url": "https://github.com/dmrph/T5Summarize",
       "highlights": [
         "Developed a text summarization application using the T5 model, fine-tuning it on the CNN/DailyMail dataset.",
@@ -101,7 +101,7 @@
   "skills": [
     {
       "name": "Python",
-      "proficiency": 100,
+      "proficiency": 90,
       "proficiency_label": "Proficiency Level"
     },
     {
@@ -112,6 +112,21 @@
     {
       "name": "C++",
       "proficiency": 80,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": 70,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "HTML",
+      "proficiency": 60,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "CSS",
+      "proficiency": 60,
       "proficiency_label": "Proficiency Level"
     }
   ],
@@ -153,7 +168,7 @@
     {
       "name": "John Fritz",
       "relation": "Previous Boss",
-      "reference": "John is a great boss and I learned a lot from him."
+      "reference": "John was a great mentor during my Integration Services Engineer Intern role, enhancing my skills in building DataVaults, writing SOPs, and optimizing switch configurations."
     }
   ]
 }
