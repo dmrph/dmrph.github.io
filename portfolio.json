@@ -65,6 +65,18 @@
       ]
     },
     {
+      "title": "DecibelDetect - Urban Noise Mapping App",
+      "summary": "Designed and developed a React-based web application that visualizes noise pollution using user-contributed data:",
+      "url": "https://github.com/dmrph/DecibelDetect",
+      "highlights": [
+        "Built an interactive noise heatmap that displays decibel levels submitted by users in real time.",
+        "Developed a user interface in React that allows users to upload decibel readings along with location and timestamp data.",
+        "Utilized Google Maps API to geolocate and visually represent noise hotspots across urban environments.",
+        "Built and deployed a FastAPI backend to handle data ingestion, validation, and API endpoint management.",
+        "Emphasized accessibility and intuitive design to ensure ease of use for users across various devices and skill levels."
+      ]
+    },    
+    {
       "title": "Artificial Neural Networks - Artificial Intelligence",
       "summary": "Implemented various types of artificial neural networks for classification, regression, and sequence prediction tasks:",
       "highlights": [
@@ -94,7 +106,7 @@
         "Bachelor of Science in Computer Science"
       ],
       "honors": ["Dean's List", "The National Society of Leadership and Success"],
-      "gpa_cumulative": "3.7",
+      "gpa_cumulative": "3.5",
       "graduation_date": "May 2025"
     }
   ],
